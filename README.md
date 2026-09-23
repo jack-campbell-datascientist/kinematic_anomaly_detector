@@ -6,6 +6,7 @@ Interactive Streamlit application that detects unusual kinematic behaviors (spee
 
 Built to demonstrate the core skills required for roles involving statistical & ML models on live/historical geospatial time-series data, feature engineering, anomaly detection, and analytic visualization.
 
+Data From: https://www.kaggle.com/datasets/arashnic/tdriver
 ---
 
 ## What it does
