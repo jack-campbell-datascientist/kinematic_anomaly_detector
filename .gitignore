@@ -43,7 +43,6 @@ wheels/
 
 # Data (large files – keep small samples in repo if needed)
 data/raw/
-*.parquet
 
 # Environment
 .env
